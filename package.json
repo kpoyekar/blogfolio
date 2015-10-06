@@ -1,0 +1,11 @@
+{
+  "name": "Blogfolio",
+  "version": "1.0.0",
+  "description": "This is Ketaki's portfolio where every entry is a blog post",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^0.5.2",
+    "handlebars": "^4.0.3"
+  },
+  "main": "app.js"
+}
